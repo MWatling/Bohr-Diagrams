@@ -1,0 +1,5 @@
+{
+  "name": "Bohr Diagram Generator",
+  "description": "A tool to generate and visualize Bohr diagrams for chemical elements using the Gemini API.",
+  "requestFramePermissions": []
+}
